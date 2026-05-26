@@ -1,0 +1,1 @@
+Sem o 'Delete' ocorre um vasamento de memoria pois ela é alocada e numca liberada
